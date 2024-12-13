@@ -15,6 +15,7 @@ Recursos adicionales
 Todos los archivos necesarios para la instalación son proporcionados por Microsoft a través de sus herramientas oficiales. No se requiere software de terceros ni versiones modificadas, lo que hace de este un proceso totalmente seguro y legítimo. Si deseas más información sobre las herramientas de Microsoft, puedes encontrar más detalles en los siguientes enlaces oficiales:
 
 [Herramientas de instalación de Office de Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+
 Canal de Reddit y Soporte
 Para cualquier duda o pregunta sobre el proceso de instalación, ¡no dudes en unirte al canal en Reddit! En este espacio, los usuarios pueden compartir sus experiencias, hacer preguntas y recibir ayuda.
 
