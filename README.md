@@ -27,7 +27,9 @@ Si deseas más información sobre las herramientas de Microsoft, puedes encontra
 Canal de Reddit y Soporte
 Para cualquier duda o pregunta sobre el proceso de instalación, ¡no dudes en unirte al canal en Reddit! En este espacio, los usuarios pueden compartir sus experiencias, hacer preguntas y recibir ayuda.
 
-🔗 [Únete al canal de Reddit](enlace aquí)
+🔗 [Únete al canal de Reddit]
+
+(https://www.reddit.com/r/InstalacionOffice/comments/1hd417r/guía_paso_a_paso_para_instalar_office_ltsc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 Si tienes alguna duda durante el proceso o si algo no funciona como esperabas, ¡estamos aquí para ayudarte! No dudes en dejar un comentario o abrir una discusión en el canal de Reddit. Todos los comentarios son bienvenidos y se responderán lo antes posible.
 
