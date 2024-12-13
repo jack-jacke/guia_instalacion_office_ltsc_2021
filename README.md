@@ -7,12 +7,20 @@ Esta guía proporciona un paso a paso detallado para instalar Office LTSC 2021 d
 La instalación de Office LTSC 2021 es sencilla, pero requiere atención y paciencia. Aquí aprenderás a hacerlo de una manera completamente segura, sin tener que recurrir a programas de dudosa procedencia. A diferencia de otras opciones "gratuitas", esta instalación está basada en herramientas proporcionadas directamente por Microsoft, lo que garantiza la integridad de tus datos y la seguridad de tu equipo.
 
 ¿Qué encontrarás en esta guía?
+
 Instrucciones detalladas sobre cómo descargar, extraer e instalar Office LTSC Profesional Plus 2021.
+
 Explicaciones fáciles de seguir para ejecutar el proceso a través del Símbolo del Sistema (Command Prompt) en Windows 10.
+
 Soluciones tranquilizadoras para aquellos que temen trabajar con el Símbolo del Sistema: ¡no es tan complicado como parece!
+
 Pasos de verificación para confirmar que la instalación fue exitosa.
+
 Recursos adicionales
-Todos los archivos necesarios para la instalación son proporcionados por Microsoft a través de sus herramientas oficiales. No se requiere software de terceros ni versiones modificadas, lo que hace de este un proceso totalmente seguro y legítimo. Si deseas más información sobre las herramientas de Microsoft, puedes encontrar más detalles en los siguientes enlaces oficiales:
+
+Todos los archivos necesarios para la instalación son proporcionados por Microsoft a través de sus herramientas oficiales. No se requiere software de terceros ni versiones modificadas, lo que hace de este un proceso totalmente seguro y legítimo. 
+
+Si deseas más información sobre las herramientas de Microsoft, puedes encontrar más detalles en los siguientes enlaces oficiales:
 
 [Herramientas de instalación de Office de Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
 
