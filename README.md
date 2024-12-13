@@ -34,4 +34,5 @@ Si tienes alguna duda durante el proceso o si algo no funciona como esperabas, �
 ¿Por qué elegir esta guía?
 El uso de software pirata o de terceros siempre conlleva riesgos de seguridad, pérdida de datos o incluso infecciones por malware. Esta instalación oficial de Office LTSC 2021 te permite disfrutar de las aplicaciones de Microsoft sin comprometer la seguridad de tu equipo ni tus datos personales. Además, no es necesario recurrir a métodos "gratuitos" que pueden poner en riesgo tu privacidad
   
-  
+Link de descarga -> https://drive.google.com/file/d/1qJYGKbyTp34tMcnGExqI_4pZhIeMr98K/view?usp=sharing
+
